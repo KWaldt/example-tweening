@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0e65b988b6f0974c9c77089c8c0ff54, type: 3}
+  m_Name: RandomDescriptions
+  m_EditorClassIdentifier: 
+  strings:
+  - This is an example.
+  - Remember to stay hydrated.
+  - Please build your game regularly.
+  - A class should only have a single responsibility.
+  - Software entities should be open for extension, but closed for modification.
+  - Objects in a program should be replaceable with instances of their subtypes without
+    altering the correctness of that program.
+  - Many client-specific interfaces are better than one general-purpose interface.
+  - One should depend upon abstractions, not concretions.
+  - 'DRY: Don''t Repeat Yourself'
+  - Please use a spell checker.
+  - Have you commited today?
